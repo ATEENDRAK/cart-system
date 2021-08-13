@@ -1,0 +1,12 @@
+{
+    "1" : {
+        "id" : "1",
+        "name" :"Ateendra Krishna",
+        "password" : "$2a$10$1anPnutgVKGCIQxIoUeSLek.Lpaa2IZNG7ju4D/w0jtykcGXwOwpe"
+    },
+    "2" : {
+        "id" : "2",
+        "name" : "Kunal Choudhary",
+        "password" : "$2a$10$1anPnutgVKGCIQxIoUeSLek.Lpaa2IZNG7ju4D/w0jtykcGXwOwpe"
+    }
+}
